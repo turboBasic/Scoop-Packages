@@ -1,3 +1,2 @@
 # TurboScoop
-* Packages for the simplest package manager *
-bucket with packaged custom applications for [Scoop](http://scoop.sh) package manager
+__starring [Scoop](http://scoop.sh) package manager__ &nbsp; *TurboScoop* offers bucket with expandable assortment of packaged applications for everyday information hunting and procession.
